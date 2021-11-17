@@ -1,0 +1,48 @@
+.Profil{
+    
+    border: blue;
+    border-style: solid;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: rgb(202, 202, 204);
+
+}
+
+
+.img{
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+
+ 
+}
+
+.nom
+{
+    justify-content: center;
+    display: flex;
+    font-size: 25px;;
+
+}
+
+.naissance
+{
+    justify-content: center;
+    display: flex;
+}
+
+.role
+{
+    justify-content: center;
+    display: flex;
+}
+
+
+.style{
+  
+    width: 30%;
+    font-size: 15px;
+    color:black;
+    margin-left: 70%;
+  }
+  

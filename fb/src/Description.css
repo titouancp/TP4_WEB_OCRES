@@ -1,0 +1,27 @@
+.Description
+{
+    border: blue;
+    border-style: solid;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: rgb(202, 202, 204);
+    font-size: 22px;
+}
+
+.buttonLikeb
+{
+    justify-content: center;
+    display: flex;
+}
+
+.publi
+{
+    margin-top: 2%;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.bio
+{
+    font-size: 16px;
+}
